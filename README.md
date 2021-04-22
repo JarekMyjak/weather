@@ -1,8 +1,7 @@
 # Weather Wherever
 this is a small weather app that saves towns that you want to track in local storage
 
-##
-it uses:
+## It uses:
 - React
 - MaterialUI
 - OpenWeatherMap api
