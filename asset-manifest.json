@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/weather/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/weather/static/js/main.f86e7fc9.chunk.js",
+    "main.js.map": "/weather/static/js/main.f86e7fc9.chunk.js.map",
+    "runtime-main.js": "/weather/static/js/runtime-main.7e5d5f8a.js",
+    "runtime-main.js.map": "/weather/static/js/runtime-main.7e5d5f8a.js.map",
+    "static/css/2.0dca2a53.chunk.css": "/weather/static/css/2.0dca2a53.chunk.css",
+    "static/js/2.fb77c926.chunk.js": "/weather/static/js/2.fb77c926.chunk.js",
+    "static/js/2.fb77c926.chunk.js.map": "/weather/static/js/2.fb77c926.chunk.js.map",
+    "index.html": "/weather/index.html",
+    "static/css/2.0dca2a53.chunk.css.map": "/weather/static/css/2.0dca2a53.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/weather/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.fb77c926.chunk.js.LICENSE.txt": "/weather/static/js/2.fb77c926.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e5d5f8a.js",
+    "static/css/2.0dca2a53.chunk.css",
+    "static/js/2.fb77c926.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.f86e7fc9.chunk.js"
+  ]
+}
